@@ -17,9 +17,9 @@
 </p>
     
     
- ![forks](https://img.shields.io/github/forks/TSTHUSHAN/SHENU-QUEEN-MD?label=Forks&style=social)
+ ![forks](https://img.shields.io/github/forks/CYBER-THUSHAN/SHENU-QUEEN-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/TSTHUSHAN/SHENU-QUEEN-MDi?style=social)
+![stars](https://img.shields.io/github/stars/CYBER-THUSHAN/SHENU-QUEEN-MDi?style=social)
   
 #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/CYBER-THUSHAN/count.svg) 
@@ -67,7 +67,7 @@ click the below button to deploy on heroku!
 
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/mrhansamala/-Queen-Nethu-MD-Bot-">
+    <a href="https://heroku.com/deploy?template=https://github.com/CYBER-THUSHAN/SHENU-QUEEN-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
