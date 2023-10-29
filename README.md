@@ -17,9 +17,9 @@
 </p>
     
     
- ![forks](https://img.shields.io/github/forks/TSTHUSHAN/SHENU-QUEEN-MD-V1?label=Forks&style=social)
+ ![forks](https://img.shields.io/github/forks/TSTHUSHAN/SHENU-QUEEN-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/TSTHUSHAN/SHENU-QUEEN-MD-V1i?style=social)
+![stars](https://img.shields.io/github/stars/TSTHUSHAN/SHENU-QUEEN-MDi?style=social)
   
 #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/CYBER-THUSHAN/count.svg) 
@@ -29,7 +29,7 @@
 
 - To use This bot you need to scan the qr code<br>
 
-[Qr scan 1](https://dark-shadow12.github.io/Dark-Shadow-Md/)
+[Qr scan 1](https://shenu-queen-1-00000-3f62d4bbb3d4.herokuapp.com/session)
 
 [Qr Scan 2](https://replit.com/@mrthushan200721/SHENU-QUEEN-MD-V1?v=1
 )
@@ -84,9 +84,8 @@ click the below button to deploy on heroku!
   "READ_MESSAGE": "true",
   "AUTO_REACTION": "true",
   "ALWAYS_ONLINE": "true",
-  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
+  "MONGODB_URI": "mongodb://mongo:cCBe2fBeA26f4eEbDbC2gD64226EHFg3@viaduct.proxy.rlwy.net:34483",
   "PACK_INFO": "cyber;THUSHAN",
-  "PREFIX": "."
    
 }
 ```
