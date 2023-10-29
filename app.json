@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "𝘚𝘏𝘌𝘕𝘜 𝘘𝘜𝘌𝘌𝘕 𝘔𝘋 🧚‍♀️"
+      "value": "CYBER THUSHAN"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -76,7 +76,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
+    "value": "mongodb://mongo:cCBe2fBeA26f4eEbDbC2gD64226EHFg3@viaduct.proxy.rlwy.net:34483"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "CYBER-THUSHAN:SHENU QUEEN BOT🧚‍♀️",
+     "value": "CYBER-THUSHAN;SHENU QUEEN BOT🧚‍♀️",
      "required": false 
   },
   "heroku": {
