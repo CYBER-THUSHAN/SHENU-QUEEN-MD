@@ -43,8 +43,12 @@
 
 ━━━━━━━━━━━━━━━
 
-
-
+⬇️ 𝙁𝙍𝙀𝙀 𝙈𝙊𝙉𝙂𝙊𝘿𝘽 𝙐𝙍𝙇 ⬇️
+```
+{
+mongodb+srv://Saka:Saka@cluster0.jadwggo.mongodb.net/?retryWrites=true&w=majority
+}
+```
 
 ## <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝙃𝙊𝙒+𝘾𝘼𝙉+𝙃𝙀𝙇𝙋+𝙔𝙊𝙐  👩‍🔧" alt="">
