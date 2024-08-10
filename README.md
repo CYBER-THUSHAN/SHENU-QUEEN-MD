@@ -120,7 +120,7 @@ click the below button to deploy on heroku!
 
 
 ```
-## 🔰ඔබට ඉතමත් ලෙසියෙන් සද ගත හැකි WAHTSAPP BOT වරයෙකි
+𝘊𝘈𝘔𝘐𝘕𝘎 𝘚𝘖𝘖𝘕 𝘕𝘌𝘞 𝘜𝘗𝘋𝘈𝘛𝘌....... 😫❤️
 ```
 
 
