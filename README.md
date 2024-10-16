@@ -50,7 +50,7 @@ mongodb+srv://Saka:Saka@cluster0.jadwggo.mongodb.net/?retryWrites=true&w=majorit
 ```
 
 ## <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝙃𝙊𝙒+𝘾𝘼𝙉+𝙃𝙀𝙇𝙋+𝙔𝙊𝙐  👩‍🔧" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝘛𝘏𝘐𝘚+𝘉𝘖𝘛+𝘏𝘈𝘚+𝘊𝘈𝘔𝘐𝘕𝘎+𝘚𝘖𝘖𝘕  👩‍🔧" alt="">
 </p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=THE+BEST+WHATSAPP+BOT" alt="Typing SVG" /></a>
 
